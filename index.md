@@ -2,6 +2,13 @@
 
 Tools Tradingview profesional yang dapat membantu anda mencari area supply dan demand dengan akurat, mudah dan cepat
 
+### FAQ
+- Untuk siapa indikator ini dibuat?
+True Supply and Demand Pro v3 didesain khusus untuk profesional trader supply and demand yang ingin menyelesaikan tugasnya dengan cepat tanpa repot mencari zone secara manual. Memastikan rule pengambilan zone selalu konsisten dan mekanikal.
+
+- Apakah bisa digunakan di Metatrader 4?
+ True Supply and Demand Pro v3 bisa digunakan di platform Trading View dan Metatrader 4.
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for

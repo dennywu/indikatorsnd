@@ -1,8 +1,6 @@
 ## True Supply and Demand Pro v3
 
-You can use the [editor on GitHub](https://github.com/dennywu/indikatorsnd/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Tools Tradingview profesional yang dapat membantu anda mencari area supply dan demand dengan akurat, mudah dan cepat
 
 ### Markdown
 
